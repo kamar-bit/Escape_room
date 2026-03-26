@@ -1,0 +1,6 @@
+{
+  "love.gamestart": "workspace",
+  "files.associations": {
+    "*.lua": "lua"
+  }
+}
